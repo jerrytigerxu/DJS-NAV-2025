@@ -39,7 +39,7 @@
     - Aspire Underwriting
 
 ## 3 questions to ask a hiring manager
-- (addressing leadership changes, strategic adaptation, and key industry challenges) => "I read about the recent leadership changes at Maple Tech. It seems like the insurance industry is going through some turbulent times right now. How has the company been navigating these challenges and adapting to the changing landscape?"
-- (addressing critical technology investments and their alignment with industry trends) => "Data security and compliance are critical in this industry. What steps is Maple Tech taking to ensure data is protected and regulations are met?"
-- (addressing the company’s approach to innovation and its awareness of future-facing trends) => "The insurance industry is constantly evolving. What are some of the biggest trends that Maple Tech is keeping an eye on, and how are they influencing the company's products and services?"
+- (addressing leadership changes, strategic adaptation, and key industry challenges) => "I'm really interested in how Maple Tech has been evolving its go-to-market strategy, especially with the changing leadership and the current industry climate. What are some of the key initiatives you're focusing on to reach new customers and strengthen existing relationships?"
+- (addressing critical technology investments and their alignment with industry trends) => "With data security and compliance being so crucial, I'm curious how Maple Tech incorporates these considerations into the product development lifecycle. How do you balance the need for innovation with the stringent requirements of the insurance industry?"
+- (addressing the company’s approach to innovation and its awareness of future-facing trends) => "From a market perspective, what are some of the biggest opportunities and challenges Maple Tech sees on the horizon? How is the company positioning itself to capitalize on these trends and maintain a competitive edge?"
 
