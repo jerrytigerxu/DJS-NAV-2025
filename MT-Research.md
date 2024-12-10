@@ -43,3 +43,15 @@
 - (addressing critical technology investments and their alignment with industry trends) => "With data security and compliance being so crucial, I'm curious how Maple Tech incorporates these considerations into the product development lifecycle. How do you balance the need for innovation with the stringent requirements of the insurance industry?"
 - (addressing the company’s approach to innovation and its awareness of future-facing trends) => "From a market perspective, what are some of the biggest opportunities and challenges Maple Tech sees on the horizon? How is the company positioning itself to capitalize on these trends and maintain a competitive edge?"
 
+
+## Value-Adding Opportunities
+**Sales (FBI)**
+- Front-end: Targeting/qualifying process, value selling approach (how they differentiate themselves from competitors), account development strategies for nurturing long-term custom relationships
+- Back-end: DIP framework, internal communication channels, external communication tools
+- Integration with other business functions
+
+**Marketing (F-MVP)**
+- Funnel (customer journey and CRM system)
+- Market research (how they stay informed about customer needs and industry trends)
+- Value proposition
+- Promotion and branding (marketing channels and brand identity)
