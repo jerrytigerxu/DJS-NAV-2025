@@ -3,7 +3,7 @@
 ## Tasks
 - ~~A) Follow up regarding MT opportunity (12/5/24)~~
 - ~~B) Plan out your intensified NAV components (12/5/24)~~
-- C) Fix up your resume according to DJS (12/9-13) -> send your first iteration to Dad on 12/12 and fix up based on feedback
+- C) [Fix up your resume](https://cultivatedculture.com/resume-builder/?resume=1725804276) according to DJS (12/9-13) -> send your first iteration to Dad on 12/12 and fix up based on feedback
 - D) Plan out interview prep (12/13)
 
 
