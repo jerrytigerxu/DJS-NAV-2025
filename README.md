@@ -9,7 +9,7 @@
 
 ## Intensified NAV Process for Maple Tech
 - DJS process
-  - [Research](https://github.com/jerrytigerxu/DJS-NAV-2024/blob/main/MT-Research.md) (12/9-13)
+  - ~~[Research](https://github.com/jerrytigerxu/DJS-NAV-2024/blob/main/MT-Research.md) (12/9-13)~~
   - Relationship-building (12/16-20)
   - VVP (12/13-20)
 - Interview prep + refining of RIP
