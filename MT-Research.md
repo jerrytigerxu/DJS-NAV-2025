@@ -46,7 +46,7 @@
 
 ## Value-Adding Opportunities
 **Sales (FBI)**
-- Front-end: Targeting/qualifying process, value selling approach (how they differentiate themselves from competitors), account development strategies for nurturing long-term custom relationships
+- Front-end: Targeting/qualifying process, value selling approach (the ability of the team (and of the reps) to ethically persuade/convince people and drive behavior), account development strategies for nurturing long-term custom relationships
 - Back-end: DIP framework, internal communication channels, external communication tools
 - Integration with other business functions
 
