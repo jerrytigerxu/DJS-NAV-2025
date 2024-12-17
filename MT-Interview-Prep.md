@@ -1,0 +1,6 @@
+## "Intro Story" - Response to "Tell me about yourself"
+I'm passionate about leveraging technology to solve business challenges and drive impactful results. As a results-driven analytics consultant with 3+ years of experience, I thrive in environments where I can combine my technical expertise with my passion for process optimization. I have a knack for identifying inefficiencies and proactively developing solutions to improve workflows and maximize productivity.
+
+For example, at Avantier, I noticed that our web development process was hindered by a lack of version control, leading to errors and delays. I took the initiative to architect and implement a robust version control system, which doubled our web development efficiency and slashed website update errors by over 30%. This not only accelerated feature releases but also fostered smoother team collaboration. Similarly, I recognized the potential for improvement in our database management system. By leading an initiative to streamline this process, I was able to reduce product update cycle time by over 70% and significantly decrease data entry errors. This resulted in substantial time and cost savings for the company.
+
+I'm eager to bring this proactive problem-solving approach to Maple Tech, where I can contribute to optimizing your business processes and driving further growth and efficiency.
