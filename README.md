@@ -10,7 +10,7 @@
 ## Intensified NAV Process for Maple Tech
 - ~~DJS process~~
   - ~~[Research](https://github.com/jerrytigerxu/DJS-NAV-2024/blob/main/MT-Research.md) (12/9-13)~~
-- Interview prep (12/16-31)
+- [Interview prep](https://trello.com/c/YbPfgdbb/103-interview-guide) (12/16-31)
   - ~~Craft a compelling "Tell me about yourself" story (12/17)~~
   - Review common behavioral questions and prepare answers using the STAR method (12/19)
   - Resume deep dive (be ready to discuss every detail - especially your specific implementation details and how OMSCS ties into everything) -> resume/experience (skills/tools/frameworks you've used for projects | how OMSCS ties into your work) (12/20)
