@@ -48,15 +48,16 @@
 
 ### 1. Enhanced Lead Generation and Qualification System
 - Develop a more sophisticated lead generation and qualification system that leverages data analytics and automation to identify and prioritize high-potential prospects
-- "What are the your current pain points in lead generation and qualification?" | "How do you envision technology improving your efficiency in identifying and prioritizing leads?"
+- "What are your current lead sources, and which are the most and least effective?" | "What criteria do you use to qualify leads? Are there any challenges in accurately identifying high-potential prospects?" | "What tools or technologies are you currently using for lead generation and qualification? Are there any limitations or frustrations with these tools?" | "How do you envision an ideal lead generation and qualification system? What features or capabilities would be most valuable to your team?"
 
 ### 2. Develop a "Sales Intelligence Dashboard"
 - Create a centralized, interactive dashboard that provides real-time insights into sales performance, pipeline health, and customer engagement
+- "What key performance indicators (KPIs) are most important to your sales team?" | "How do you currently track sales performance and pipeline health? Are there any challenges in accessing or analyzing this data?"
 
 
 ### 3. Personalized Custom Onboarding and Support Portal 
 - Develop a personalized custom onboarding and support portal that provides a seamless and engaging experience for new clients
-- "What are the key challenges you face in your current custom onboarding process?"
+- "Can you walk me through your current onboarding process for new clients?" | "What are the biggest challenges you face in onboarding new clients effectively?" | "What do you think are the key elements of a successful onboarding experience?"
 
 
 ### Reference
