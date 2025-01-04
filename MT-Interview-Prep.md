@@ -14,8 +14,15 @@
 - Details of website risk management plan
   - Comprehensive Risk Mitigation: "My plan included a range of security measures, such as enforcing strong password policies, controlling user access through defined roles and permissions, and implementing regular backups to minimize the risk of data loss."
   - Proactive Security: "I focused on proactive mitigation of threats by scanning for malware, ensuring timely updates to plugins and the CMS, and establishing procedures for incident response."
-  - Continuous Improvement: "The plan was designed to adapt to emerging threats and operational changes, with regular reviews and updates to maintain its effectiveness." 
-
+  - Continuous Improvement: "The plan was designed to adapt to emerging threats and operational changes, with regular reviews and updates to maintain its effectiveness."
+- Direct experience in the P&C insurance industry
+  - "I've often found that taking initiative and focusing on customer needs can lead to significant improvements, even without prior industry experience. For example, in my previous role, our website wasn't effectively capturing leads or conveying the value of our services. I took the initiative to analyze user behavior, identify pain points, and redesign the website with a focus on user experience and clear messaging. As a result, we saw a significant increase in qualified leads and a boost in sales."
+- Limited enterprise-level software development experience
+  - Story: "I'm comfortable tackling complex technical challenges and leading projects to improve efficiency and accuracy. At Avantier, we faced a challenge with our database management system, which was slow, inefficient, and prone to errors. I led a project to overhaul the system, implementing a new relational database and automating key processes. This resulted in a 70% reduction in product update cycle time and a 50% decrease in data entry errors."
+- Depth of technical expertise in specific technologies
+  - Story: "I believe in taking a proactive approach to security and continuously learning new technologies to address evolving challenges. When I joined Avantier, they were struggling with their website's security. To address this, I developed and executed a comprehensive risk management plan. This involved implementing strong password policies, controlling user access, and establishing an incident response protocol. As a result, we significantly improved their security posture and protected sensitive customer data."
+ - Leadership experience in Agile-scrum environments
+  - Story: "I've always been a strong advocate for iterative development and collaborative teamwork. In my previous role, we recognized the need for a more iterative and collaborative approach to web development. I led the implementation of a new version control system and streamlined our development process. This resulted in a significant increase in efficiency and a reduction in errors."
 
 
 ## "Intro Story" - Response to "Tell me about yourself"
