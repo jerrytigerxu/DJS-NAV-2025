@@ -1,3 +1,23 @@
+## Addressing potential "holes" in resume
+- Quantifiable impact of the version control system
+  - "The previous workflow involved manual updates to both the production and staging sites, which was highly inefficient and error-prone. By implementing a robust version control system (WP Staging Pro), we eliminated the need for manual updates and streamlined the entire development process."
+  - "While we didn't have a direct way to track website update errors previously, I conservatively estimate that we reduced them by at least 30%. The actual reduction was likely much higher, given the complexity of our website and the number of manual updates required."
+"This improvement not only saved us time and effort but also significantly reduced the risk of errors affecting our customers' experience on the website."
+- Technical details of DBMS overhaul
+  - "The original workflow relied on manual data entry from Excel sheets provided by our overseas production team, which was inefficient and prone to errors. To address this, I implemented a relational database using Airtable, a third-party platform."
+  - "I leveraged APIs and PHP to integrate Airtable with our website, allowing for automated data replication. This eliminated the need for manual updates and ensured that any changes made in Airtable were immediately reflected on the website."
+"This solution significantly reduced the product update cycle time by over 70% and decreased data entry errors by over 50%, resulting in faster product releases and improved data accuracy."
+- Connection between OMSCS and Salesforce/marketing expertise
+  - "While my OMSCS specialization was in Machine Learning, my coursework covered a wide range of computer science topics, including software development processes, software architecture and design, network science, and data and visual analytics."
+  - "This broad foundation has equipped me with the problem-solving skills and adaptability needed to tackle complex challenges in business environments, particularly when it comes to customizing and tailoring solutions beyond the limitations of no-code platforms."
+  - "Through various projects and coursework, I've honed my ability to quickly learn and apply different programming languages, frameworks, and tools, allowing me to effectively contribute to the development and optimization of business platforms."
+- Details of website risk management plan
+  - Comprehensive Risk Mitigation: "My plan included a range of security measures, such as enforcing strong password policies, controlling user access through defined roles and permissions, and implementing regular backups to minimize the risk of data loss."
+  - Proactive Security: "I focused on proactive mitigation of threats by scanning for malware, ensuring timely updates to plugins and the CMS, and establishing procedures for incident response."
+  - Continuous Improvement: "The plan was designed to adapt to emerging threats and operational changes, with regular reviews and updates to maintain its effectiveness." 
+
+
+
 ## "Intro Story" - Response to "Tell me about yourself"
 I'm passionate about leveraging technology to solve business challenges and drive impactful results. As a results-driven analytics consultant with 3+ years of experience, I thrive in environments where I can combine my technical expertise with my passion for process optimization. I have a knack for identifying inefficiencies and proactively developing solutions to improve workflows and maximize productivity.
 
