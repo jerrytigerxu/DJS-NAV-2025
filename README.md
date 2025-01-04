@@ -8,6 +8,7 @@
 
 
 ## Intensified NAV Process for Maple Tech
+- You have until the beginning of 2025 to prepare for two major paths: the traditional interview process that highlights why you are a good candidate based off of your past and present, and the VVP process that showcases why you can add value to the company potentially in the future
 - ~~DJS process~~
   - ~~[Research](https://github.com/jerrytigerxu/DJS-NAV-2024/blob/main/MT-Research.md) (12/9-13)~~
 - [Interview prep](https://trello.com/c/YbPfgdbb/103-interview-guide) (12/16 - 1/4)
