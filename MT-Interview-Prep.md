@@ -40,3 +40,5 @@ I'm eager to bring this proactive problem-solving approach to Maple Tech, where 
 - **Tell me about a time you’ve had to work with a difficult person, or difficult people** -> Talk about your experience dealing with GK (at times it was obvious he didn't want to be there and his attitude rubbed a lot of people the wrong way) when you were "involved" with LSM
 - **Tell me about a time you failed** -> Launch points: starting FirstFruits Analytics LLC
 - **Tell me about a time you overcame an obstacle** -> Starting OMSCS and initially doing very poorly in some coursework for KBAI (because I didn't do CS for undergrad) but then picking myself up and learning what I needed to learn quickly
+
+## Mutual Q&A (refer to MT research)
