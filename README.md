@@ -17,4 +17,5 @@
     - ~~Resume content: be ready to discuss every detail (especially your implementation details, skills/tools/frameworks you've used, and how OMSCS ties into everything) and potentially refine it more~~
     - ~~Response content: "Tell me about yourself", behavioral and technical questions, Q&A~~
     - ~~Readiness for speaking through practice~~
-  - C. Interview prep procedure (3 phases -> resume refinement, response development, and readiness/practice) (12/26 - 1/4)
+  - ~~C. Interview prep procedure (3 phases -> resume refinement, response development, and readiness/practice) (12/26 - 1/4)~~
+- Practice and Preparation for IP and VVP 
