@@ -22,7 +22,7 @@
 - Depth of technical expertise in specific technologies
   - Story: "I believe in taking a proactive approach to security and continuously learning new technologies to address evolving challenges. When I joined Avantier, they were struggling with their website's security. To address this, I developed and executed a comprehensive risk management plan. This involved implementing strong password policies, controlling user access, and establishing an incident response protocol. As a result, we significantly improved their security posture and protected sensitive customer data."
  - Leadership experience in Agile-scrum environments
-  - Story: "I've always been a strong advocate for iterative development and collaborative teamwork. In my previous role, we recognized the need for a more iterative and collaborative approach to web development. I led the implementation of a new version control system and streamlined our development process. This resulted in a significant increase in efficiency and a reduction in errors."
+   - Story: "I've always been a strong advocate for iterative development and collaborative teamwork. In my previous role, we recognized the need for a more iterative and collaborative approach to web development. I led the implementation of a new version control system and streamlined our development process. This resulted in a significant increase in efficiency and a reduction in errors."
 
 
 ## "Intro Story" - Response to "Tell me about yourself"
