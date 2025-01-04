@@ -18,4 +18,12 @@
     - ~~Response content: "Tell me about yourself", behavioral and technical questions, Q&A~~
     - ~~Readiness for speaking through practice~~
   - ~~C. Interview prep procedure (3 phases -> resume refinement, response development, and readiness/practice) (12/26 - 1/4)~~
-- Practice and Preparation for IP and VVP 
+- Practice and Preparation for IP and VVP
+- VVP progression
+  - ~~Initial connection through LinkedIn~~
+  - Informational interview - focus on learning about Matt's journey and the challenges he faces + build rapport and establish common ground + learn about what he's excited about and what challenges he is facing + obtain email address
+  - Thank-you email
+  - Advice triangle email - seek actionable advice from Matt
+  - Second advice triangle email + following up on challenges (clarifying questions)
+  - Research and VVP creation
+  - Email your VVP and suggest a follow-up meeting
