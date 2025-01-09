@@ -24,10 +24,10 @@
 - VVP progression
   - ~~Initial connection through LinkedIn~~
   - Informational interview - focus on learning about Matt's journey and the challenges he faces + build rapport and establish common ground + learn about what he's excited about and what challenges he is facing + obtain email address
-  - Thank-you email
-  - Advice triangle email - seek actionable advice from Matt
+  - Thank-you message the day after the informational interview
+  - (3 days later) Advice triangle email - seek actionable advice from Matt
   - Thank you email for the advice + following up on challenges (clarifying questions)
-  - Research (based off the responses) and VVP creation
+  - Research (based off the responses) and VVP creation (take 5 days before finishing)
   - Email your VVP and suggest a follow-up meeting
 
 
