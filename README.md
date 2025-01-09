@@ -26,8 +26,8 @@
   - Informational interview - focus on learning about Matt's journey and the challenges he faces + build rapport and establish common ground + learn about what he's excited about and what challenges he is facing + obtain email address
   - Thank-you email
   - Advice triangle email - seek actionable advice from Matt
-  - Second advice triangle email + following up on challenges (clarifying questions)
-  - Research and VVP creation
+  - Thank you email for the advice + following up on challenges (clarifying questions)
+  - Research (based off the responses) and VVP creation
   - Email your VVP and suggest a follow-up meeting
 
 
