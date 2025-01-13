@@ -23,7 +23,7 @@
   - 1 day for practicing "Intro Story", 2 days for behavioral question mastery, 2 days for addressing resume gaps
 - VVP progression
   - ~~Initial connection through LinkedIn~~
-  - Informational interview - focus on learning about Matt's journey and the challenges he faces + build rapport and establish common ground + learn about what he's excited about and what challenges he is facing + obtain email address
+  - Informational interview - 1) career journey, 2) CEO experience, 3) 2025-26 outlook and potential obstacles
   - Thank-you message the day after the informational interview
   - (3 days later) Advice triangle email - seek actionable advice from Matt
   - Thank you email for the advice + following up on challenges (clarifying questions)
