@@ -21,6 +21,7 @@
 - Started his career at Sureco National, then co-founded Admiral America LLC and Admiral Star LLC to develop and sell the Aspire Information System (with Nick Teetelli)
 - Maple Technologies came out of this partnership
 - Was CTO until Nick’s passing in December 2022, then Matt became the new CEO
+- It seems that Matt Blackley is also responsible for accounting, as he mentions that he was busy "closing out the books for 2024" -> he needs some responsibilities taken off his plate!
 
 **Donald “Don” Honeycutt - CTO (former CDO)**
 - Went to Cornell University where he got a bachelor’s in physics with a MINOR in CS
