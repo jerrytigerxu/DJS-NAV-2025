@@ -18,9 +18,6 @@
     - ~~Response content: "Tell me about yourself", behavioral and technical questions, Q&A~~
     - ~~Readiness for speaking through practice~~
   - ~~C. Interview prep procedure (3 phases -> resume refinement, response development, and readiness/practice) (12/26 - 1/4)~~
-- Practice and Preparation for IP and VVP (1-week process)
-  - Practice with AI interview tools (like Google Interview Warmup)
-  - 1 day for practicing "Intro Story", 2 days for behavioral question mastery, 2 days for addressing resume gaps
 - VVP progression
   - ~~Initial connection through LinkedIn~~
   - Informational interview - 1) career journey, 2) CEO experience, 3) 2025-26 outlook and potential obstacles
@@ -29,7 +26,9 @@
   - Thank you email for the advice + following up on challenges (clarifying questions)
   - Research (based off the responses) and VVP creation (take 3-4 days before finishing)
   - Email your VVP and suggest a follow-up meeting
-
+- Practice and Preparation for IP and VVP (1-week process)
+  - Practice with AI interview tools (like Google Interview Warmup)
+  - 1 day for practicing "Intro Story", 2 days for behavioral question mastery, 2 days for addressing resume gaps
 
 ---
 
