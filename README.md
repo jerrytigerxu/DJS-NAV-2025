@@ -20,9 +20,9 @@
   - ~~C. Interview prep procedure (3 phases -> resume refinement, response development, and readiness/practice) (12/26 - 1/4)~~
 - VVP progression
   - ~~Initial connection through LinkedIn~~
-  - Informational interview - 1) career journey, 2) CEO experience, 3) 2025-26 outlook and potential obstacles
-  - Thank-you message a few hours after the informational interview
-  - (1-2 days later) Advice triangle email - seek actionable advice from Matt
+  - ~~Informational interview - 1) career journey, 2) CEO experience, 3) 2025-26 outlook and potential obstacles~~
+  - Thank-you message the day after the informational interview
+  - (2 days later) Advice triangle email - seek actionable advice from Matt
   - Thank you email for the advice + following up on challenges (clarifying questions)
   - Research (based off the responses) and VVP creation (take 3-4 days before finishing)
   - Email your VVP and suggest a follow-up meeting
