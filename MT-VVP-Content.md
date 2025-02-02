@@ -15,40 +15,40 @@ However, in order to bring Maple Tech out of the "slump" and into a "new age of 
 
 
 ## I. Targeting/Qualifying
-- Connecting to MT's goals
-	- This directly supports Matthew's goal of signing more clients from the trucking industry. A sophisticated lead generation system will allow Maple Tech to efficiently identify and target high-potential trucking companies, maximizing their sales efforts and accelerating market penetration in this new sector. It also ties into his broader goal of improving market visibility by focusing on a key target segment.
-- Quantifiable Impact
-	- Increase qualified leads from the trucking industry by X% within Y months.
-	- Reduce the sales cycle time for trucking clients by Z days.
-	- Improve lead conversion rate for trucking prospects by A% through automated qualification.
-- Supporting Resources
-	- HubSpot's State of Inbound report (annual) for lead generation benchmarks.
-    - Case studies on successful lead generation in the insurance industry (search industry-specific publications).
-    - Articles on data-driven lead qualification and predictive lead scoring.
-    - Resources on trucking industry demographics and market trends (e.g., American Trucking Associations).
-- Actionable Steps
-	- Define Ideal Customer Profile for trucking clients
-	- Implement marketing automation software to capture leads through targeted content offers
-	- Develop a lead scoring system
-	- Automate lead qualification and routing to sales based on lead score
+- Why this project connects to the company's goals
+	- This project directly supports Matthew Blackley's goal of signing more clients from the trucking industry by enabling Maple Tech to efficiently identify and target high-potential trucking companies. This focused approach will maximize sales efforts and accelerate market penetration in this new sector . It also ties into his broader goal of improving market visibility by focusing on a key target segment and ensuring that marketing resources are allocated effectively
+- Evidence of quantifiable Impact
+	- **Increased Sales Opportunities:** Implementing a strong lead generation strategy can lead to increased sales opportunities and enhanced brand visibility within target markets
+	- **Improved Conversion Rates:** Focusing on lead quality over quantity is a top priority for marketers, with a recent study showing that 73% of marketers who target leads based on their position in the sales funnel have higher conversion rates.
+	- **Case Study - Connixt:** By implementing a comprehensive lead generation strategy, Connixt generated 33 high-quality leads at a cost per lead of less than $300 for an enterprise product worth thousands of dollars. ([Transportation Marketing Case Study](https://www.llamaleadgen.com/case-studies/transportation-marketing/))
+- Actionable initial steps (ReD)
+	- Requirements Engineering
+		- Define clear SMART objectives (Example, aim to increase qualified leads from the trucking industry by 20% within six months)
+		- Identify target audience and develop detailed buyer personas
+		- Analyze existing data to understand existing performance and identify gaps
+	- Design
+		- Select appropriate marketing channels to reach the target audience
+		- Develop "lead magnets" 
+		- Develop lead scoring system to prioritize leads
+		- Design landing pages to capture lead information
 
 ## II. Sales Backend + Data Management (DAPS)
 - Connecting to MT's goals
-	- A centralized DAPS dashboard supports several of Matthew's goals. It provides the data-driven insights needed to assess the effectiveness of new pricing models, understand the impact of AI integration, and track the progress of expanding into the trucking industry. It also contributes to improved overall efficiency and data-driven decision-making, which is essential for any growing company.
-- Quantifiable Impact
-	- Increase sales team productivity by B% through real-time data insights
-	- Improve sales forecasting accuracy by C% through DAPS reporting
-	- Reduce time spent on data analysis and reporting by D%
-- Supporting Resources
-	- Articles on best practices for sales dashboards and reporting.
-	- Case studies on the impact of data visualization on sales performance.
-	- Resources on CRM integration and data pipeline management.
-	- Examples of effective sales dashboards (search online for inspiration).
-- Actionable Steps
-	- Integrate CRM data with a business intelligence platform
-	- Develop KPIs
-	- Design interactive dashboards to visualize KPIs and provide real-time insights
-	- Implement automated reporting and data alerts
+	- Creating a centralized, interactive dashboard and data pipeline directly supports Maple Tech's overall goal of driving growth and efficiency. By providing real-time insights into sales performance, pipeline health, and client engagement, this project empowers data-driven decision-making at all levels of the organization . This aligns with CEO Matthew Blackley's focus on incorporating AI and leveraging data for more effective strategies
+- Evidence of quantifiable Impact
+	- **Improved Sales Performance:** Real-time dashboards provide immediate visibility into key sales metrics, enabling faster response to trends and improved performance tracking 1 . Studies show that companies using sales dashboards experience an average of 107% better lead conversion rates and 40% greater average deal size (https://databox.com/data-dashboard)
+	- **Improved Customer Experience:** Real-time data on client engagement allows for proactive identification of potential churn risks and opportunities for personalized outreach, leading to a more delightful customer experience (https://www.lindy.ai/blog/ai-sales-pipeline-management)
+	- **Enhanced Forecasting Accuracy:** Data pipelines facilitate accurate sales forecasting by consolidating data from various sources and enabling predictive analytics . This leads to better resource allocation and improved strategic planning (https://medium.com/@mhd_siblee/revolutionizing-your-sales-strategy-the-power-of-a-sales-pipeline-dashboard-5913d741874a)
+- Actionable initial steps (ReD)
+	- Requirements Engineering
+		- Clearly outline the specific goals and objectives (Ex: aim to improve sales forecasting accuracy by 15% or reduce the sales cycle length by 10 days)
+		- Determine all relevant data sources that need to be integrated into the data pipeline
+		- Identify the KPIs that need to be tracked and visualized
+		- Conduct thorough user research to understand the specific needs and preferences of different stakeholders who will be using the dashboard
+	- Design
+		- Design an intuitive and user-friendly dashboard that effectively visualizes the key metrics and provides actionable insights
+		- Design a robust and scalable data pipeline architecture that can efficiently collect, process, and store data from various sources (consider ETL processes for data integration)
+		- Establish clear data governance policies and procedures
 
 ## III. Account Development and Onboarding
 - Connecting to MT's goals
