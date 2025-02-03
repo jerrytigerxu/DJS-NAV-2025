@@ -52,18 +52,19 @@ However, in order to bring Maple Tech out of the "slump" and into a "new age of 
 
 ## III. Account Development and Onboarding
 - Connecting to MT's goals
-	- A seamless and engaging onboarding experience is crucial for client retention and satisfaction, which directly contributes to Maple Tech's long-term growth and success. It also supports the adoption of new pricing models and product features by providing clients with the resources and support they need to effectively utilize the platform.
-- Quantifiable Impact
-	- Improve client retention rate by E% within F months.
-	- Increase client satisfaction scores by G%.
-	- Reduce client support inquiries by H% through proactive onboarding and support.
-- Supporting Resources
-	- Articles on best practices for client onboarding and support.
-	- Case studies on the impact of personalized onboarding experiences on client retention.
-	- Examples of effective client onboarding portals (search online for inspiration).
-	- Resources on DevOps and continuous improvement methodologies.
-- Actionable Steps
-	- Develop a personalized onboarding plan for different client segments
-	- Design a custom onboarding portal with interactive tutorials, FAQs, and support resources
-	- Implement a feedback mechanism to continuously improve the onboarding process
-	- Establish a DevOps pipeline for ongoing development and maintenance of the portal and of the entire system
+	- This project strengthens customer relationships by providing a seamless onboarding experience and fostering customer loyalty, aligning with the CEO's vision of improved market visibility and stronger customer relationships. It also increases efficiency by streamlining the onboarding process and supports growth objectives through continuous improvement via a DevOps pipeline, aligning with the company's focus on AI and data-driven strategies.
+- Evidence of quantifiable Impact
+	- Reduced churn - studies show that a well-designed onboarding process can reduce customer churn by up to 67% ([Reduce Churn By Perfecting Your Client Onboarding Process](https://www.forbes.com/councils/forbestechcouncil/2021/08/18/reduce-churn-by-perfecting-your-client-onboarding-process/))
+	- Satisfied customers are more likely to stay with a company longer and spend more over time. This directly contributes to increased customer lifetime value (CLTV)
+	- A positive onboarding experience can turn new clients into brand advocates who recommend Maple Tech to others. This contributes to organic growth and strengthens the company's market position
+- Actionable initial steps (ReD)
+	- Requirements engineering
+		- Clearly outline the specific goals and objectives of the onboarding portal project (Ex: aim to reduce customer churn by 10% or increase customer satisfaction scores by 15%)
+		- Conduct thorough user research to understand the needs and expectations of new clients during the onboarding process
+		- Map out the essential information and resources that need to be included in the onboarding portal, such as product documentation, tutorials, FAQs, and contact information
+		- Determine the necessary integrations with existing systems, such as CRM, billing systems, and support platforms, to ensure a seamless onboarding experience
+	- Design
+		- Design an intuitive and user-friendly interface for the onboarding portal that is easy to navigate and provides a clear path for new clients
+		- Design an engaging and personalized onboarding experience that caters to the specific needs and preferences of different client segments
+		- Design a DevOps pipeline that facilitates continuous integration and continuous delivery (CI/CD) for ongoing improvements to the onboarding portal. This includes automated testing, deployment, and monitoring processes
+	
